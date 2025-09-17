@@ -1,0 +1,41 @@
+seller_id,prod_id,species,age,height,price,location,pot_type,style,trunk_thickness,description,seller_notes,shipping_options,availability
+S007,P0001,Sageretia,22,15,427.84,"Lisboa, PT",Round,Informal Upright,2.5,Sageretia bonsai in great condition.,well-shaped,eu-shipping,in_stock
+S007,P0002,Ficus,4,27,61.53,"Lisboa, PT",Round,Literati,0.8,Ficus bonsai in great condition.,show potential,pickup-only,in_stock
+S001,P0003,Cotoneaster,20,49,291.66,"Braga, PT",Training,Cascade,0.8,Cotoneaster bonsai in great condition.,well-shaped,national-shipping,preorder
+S010,P0004,Ligustrum,11,47,254.79,"Aveiro, PT",Unglazed Oval,Informal Upright,3.7,Ligustrum bonsai in great condition.,show potential,pickup-only,preorder
+S002,P0005,Ulmus/Zelkova,20,15,257.79,"Faro, PT",Unglazed Oval,Windswept,4.2,Ulmus/Zelkova bonsai in great condition.,needs refinement,national-shipping,preorder
+S006,P0006,Crassula,11,27,417.46,"Porto, PT",Unglazed Oval,Informal Upright,3.7,Crassula bonsai in great condition.,show potential,national-shipping,preorder
+S010,P0007,Pyracantha,4,19,215.75,"Faro, PT",Drum,Slanting,4.7,Pyracantha bonsai in great condition.,well-shaped,national-shipping,preorder
+S002,P0008,Ficus,19,48,433.86,"Coimbra, PT",Glazed Rectangle,Broom,3.8,Ficus bonsai in great condition.,show potential,national-shipping,in_stock
+S008,P0009,Ulmus/Zelkova,24,54,426.49,"Lisboa, PT",Training,Semi-Cascade,4.1,Ulmus/Zelkova bonsai in great condition.,show potential,national-shipping,preorder
+S011,P0010,Pyracantha,13,13,188.96,"Braga, PT",Glazed Rectangle,Slanting,3.9,Pyracantha bonsai in great condition.,needs refinement,pickup-only,in_stock
+S012,P0011,Acer palmatum,9,37,147.16,"Braga, PT",Drum,Informal Upright,1.4,Acer palmatum bonsai in great condition.,needs refinement,eu-shipping,preorder
+S009,P0012,Ligustrum,10,57,373.19,"Braga, PT",Glazed Rectangle,Literati,5.8,Ligustrum bonsai in great condition.,well-shaped,pickup-only,in_stock
+S004,P0013,Ligustrum,2,43,123.58,"Faro, PT",Unglazed Oval,Semi-Cascade,2.1,Ligustrum bonsai in great condition.,well-shaped,national-shipping,sold_out
+S006,P0014,Sageretia,6,56,284.17,"Faro, PT",Round,Formal Upright,3.0,Sageretia bonsai in great condition.,show potential,eu-shipping,preorder
+S002,P0015,Carmona,17,52,194.57,"Braga, PT",Training,Cascade,0.9,Carmona bonsai in great condition.,well-shaped,national-shipping,in_stock
+S001,P0016,Ulmus/Zelkova,5,12,169.52,"Faro, PT",Unglazed Oval,Informal Upright,5.7,Ulmus/Zelkova bonsai in great condition.,show potential,pickup-only,in_stock
+S003,P0017,Juniperus,22,28,285.98,"Coimbra, PT",Round,Broom,3.1,Juniperus bonsai in great condition.,well-shaped,national-shipping,preorder
+S002,P0018,Serissa,6,18,230.63,"Aveiro, PT",Glazed Rectangle,Semi-Cascade,3.1,Serissa bonsai in great condition.,show potential,pickup-only,sold_out
+S009,P0019,Ficus,13,21,112.22,"Aveiro, PT",Round,Formal Upright,4.7,Ficus bonsai in great condition.,needs refinement,eu-shipping,in_stock
+S009,P0020,Pyracantha,13,22,384.32,"Coimbra, PT",Unglazed Oval,Broom,4.0,Pyracantha bonsai in great condition.,show potential,pickup-only,in_stock
+S004,P0021,Carmona,8,45,339.45,"Braga, PT",Glazed Rectangle,Formal Upright,5.9,Carmona bonsai in great condition.,needs refinement,national-shipping,preorder
+S006,P0022,Juniperus,16,58,319.32,"Coimbra, PT",Glazed Rectangle,Informal Upright,1.7,Juniperus bonsai in great condition.,well-shaped,national-shipping,in_stock
+S010,P0023,Sageretia,21,12,111.86,"Braga, PT",Glazed Rectangle,Informal Upright,5.1,Sageretia bonsai in great condition.,well-shaped,national-shipping,sold_out
+S003,P0024,Acer palmatum,15,52,109.71,"Coimbra, PT",Training,Literati,3.0,Acer palmatum bonsai in great condition.,show potential,pickup-only,sold_out
+S003,P0025,Ligustrum,2,21,97.25,"Faro, PT",Drum,Slanting,3.9,Ligustrum bonsai in great condition.,show potential,national-shipping,sold_out
+S009,P0026,Sageretia,6,13,91.26,"Lisboa, PT",Training,Slanting,2.9,Sageretia bonsai in great condition.,well-shaped,pickup-only,in_stock
+S009,P0027,Podocarpus,9,60,115.43,"Faro, PT",Glazed Rectangle,Semi-Cascade,3.5,Podocarpus bonsai in great condition.,well-shaped,pickup-only,sold_out
+S011,P0028,Sageretia,20,45,406.52,"Braga, PT",Round,Slanting,3.4,Sageretia bonsai in great condition.,show potential,eu-shipping,in_stock
+S010,P0029,Serissa,2,21,355.02,"Porto, PT",Unglazed Oval,Windswept,3.9,Serissa bonsai in great condition.,well-shaped,eu-shipping,in_stock
+S009,P0030,Sageretia,19,42,314.99,"Lisboa, PT",Round,Formal Upright,1.9,Sageretia bonsai in great condition.,needs refinement,pickup-only,in_stock
+S001,P0031,Portulacaria,4,40,217.17,"Coimbra, PT",Round,Cascade,4.3,Portulacaria bonsai in great condition.,needs refinement,eu-shipping,sold_out
+S004,P0032,Acer palmatum,24,45,228.17,"Coimbra, PT",Round,Cascade,5.1,Acer palmatum bonsai in great condition.,well-shaped,national-shipping,in_stock
+S002,P0033,Carmona,23,27,212.9,"Braga, PT",Training,Cascade,4.2,Carmona bonsai in great condition.,well-shaped,pickup-only,sold_out
+S003,P0034,Cotoneaster,10,20,305.61,"Braga, PT",Unglazed Oval,Informal Upright,2.7,Cotoneaster bonsai in great condition.,needs refinement,pickup-only,sold_out
+S007,P0035,Juniperus,18,37,93.62,"Coimbra, PT",Drum,Cascade,2.5,Juniperus bonsai in great condition.,well-shaped,eu-shipping,preorder
+S008,P0036,Ficus,16,57,168.64,"Lisboa, PT",Drum,Broom,3.3,Ficus bonsai in great condition.,needs refinement,eu-shipping,in_stock
+S004,P0037,Ulmus/Zelkova,5,17,443.66,"Coimbra, PT",Glazed Rectangle,Formal Upright,5.5,Ulmus/Zelkova bonsai in great condition.,well-shaped,national-shipping,in_stock
+S011,P0038,Carmona,10,37,386.07,"Porto, PT",Round,Windswept,4.4,Carmona bonsai in great condition.,well-shaped,national-shipping,in_stock
+S007,P0039,Acer palmatum,4,29,317.49,"Lisboa, PT",Training,Semi-Cascade,1.0,Acer palmatum bonsai in great condition.,well-shaped,pickup-only,preorder
+S006,P0040,Ulmus/Zelkova,19,38,217.85,"Coimbra, PT",Round,Slanting,0.7,Ulmus/Zelkova bonsai in great condition.,show potential,pickup-only,in_stock

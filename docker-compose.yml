@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+    image: pbs_bonsai_backend:latest
+    container_name: pbs_backend
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5001
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mlflow
+    volumes:
+      - ./backend/app/data:/app/app/data
+      - ./backend/app/prompts:/app/app/prompts
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.14.1
+    container_name: pbs_mlflow
+    command: >
+      mlflow server
+      --backend-store-uri sqlite:///mlflow.db
+      --default-artifact-root /mlflow/artifacts
+      --host 0.0.0.0
+      --port 5001
+    ports:
+      - "5001:5001"
+    volumes:
+      - mlflow_db:/mlflow
+      - mlflow_artifacts:/mlflow/artifacts
+
+volumes:
+  mlflow_db:
+  mlflow_artifacts:

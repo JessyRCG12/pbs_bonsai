@@ -1,0 +1,14 @@
+species,level,main_placement,watering,pruning,hardiness,budget,growth
+Ficus,Beginner,Indoor (South/North),Moderate,Frequent,Very hardy,Low,Fast
+Ulmus/Zelkova,Beginner,Outdoor/Indoor (South),Moderate,Frequent,Very hardy,Low,Fast
+Ligustrum,Beginner,Balcony/Outdoor,Moderate,Frequent,Very hardy,Low,Fast
+Juniperus,Intermediate,Outdoor/Balcony,Low,Low,Very hardy,Medium,Slow
+Podocarpus,Intermediate,Indoor South/Outdoor,Moderate,Low,Sensitive,Medium,Medium
+Sageretia,Intermediate,Indoor South,Moderate,Moderate,Sensitive,Low,Medium
+Carmona,Advanced,Indoor South,Frequent,Frequent,Sensitive,Low,Slow
+Serissa,Advanced,Indoor South,Frequent,Frequent,Very sensitive,Low,Slow
+Portulacaria,Beginner,Indoor South/Outdoor,Low,Frequent,Very hardy,Low,Fast
+Crassula,Beginner,Indoor South/Outdoor,Low,Frequent,Very hardy,Low,Fast
+Cotoneaster,Beginner,Outdoor/Balcony,Moderate,Moderate,Very hardy,Low,Fast
+Pyracantha,Intermediate,Outdoor/Balcony,Moderate,Moderate,Medium,Medium,Fast
+Acer palmatum,Intermediate,Outdoor half-shade,Frequent,Moderate,Sensitive,Medium/High,Slow
