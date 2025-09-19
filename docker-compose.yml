@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   backend:
     build:
@@ -8,6 +6,9 @@ services:
     container_name: pbs_backend
     environment:
       - MLFLOW_TRACKING_URI=http://mlflow:5001
+      - OLLAMA_HOST=http://host.docker.internal:11434
+    env_file:
+      - .env
     ports:
       - "8080:8080"
     depends_on:
@@ -22,7 +23,8 @@ services:
     command: >
       mlflow server
       --backend-store-uri sqlite:///mlflow.db
-      --default-artifact-root /mlflow/artifacts
+      --artifacts-destination /mlflow/artifacts
+      --serve-artifacts
       --host 0.0.0.0
       --port 5001
     ports:
@@ -34,3 +36,7 @@ services:
 volumes:
   mlflow_db:
   mlflow_artifacts:
+
+
+
+

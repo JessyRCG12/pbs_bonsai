@@ -7,7 +7,7 @@ from typing import Any, Dict, Optional
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-from orchestrator.chat_orchestrator import ChatOrchestrator, BuyerProfile, ListingRanker
+from app.orchestrator.chat_orchestrator import ChatOrchestrator, BuyerProfile, ListingRanker
 
 app = FastAPI(title="BonsAI API")
 
